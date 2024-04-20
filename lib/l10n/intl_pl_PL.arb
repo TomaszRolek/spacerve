@@ -1,0 +1,22 @@
+{
+  "@@locale": "pl_PL",
+  "welcome_desc": "Rezerwuj swoją przestrzeń w wygodny sposób.",
+  "login": "Zaloguj się",
+  "register": "Zarejestruj się",
+  "do_not_have_account": " Nie posiadasz jeszcze konta? ",
+  "error_occurred": "Wystąpił błąd",
+  "cant_be_empty": "Pole nie może zostać puste",
+  "email": "Email",
+  "password": "Hasło",
+  "invalid_email": "Podano nieprawidłowy email",
+  "invalid_pass": "Hasło musi zawierać conajmniej 8 znaków",
+  "login_error": "Podano nieprawidłowe dane",
+  "register_error": "Wystąpił błąd podczas rejestracji",
+  "reserve": "Rezerwuj",
+  "your_reservations": "Twoje rezerwacje",
+  "scan": "Skanuj",
+  "logout": "Wyloguj się",
+  "rooms": "Sale",
+  "free_rooms": "Dostępne sale",
+  "reservations": "Rezerwacje"
+}
